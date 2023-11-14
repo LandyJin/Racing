@@ -1,0 +1,6 @@
+.tableDetail {
+    border-bottom: 1px solid lightgrey;
+}
+.tableDetail td{
+    padding: 10px 0;
+}
